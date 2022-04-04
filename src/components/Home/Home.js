@@ -8,7 +8,7 @@ const Home = () => {
   const [reviews, setReviews] = useReviews();
   const navigate = useNavigate();
   const showAllReview = () => {
-    navigate('/reviews/');
+    navigate('/reviews');
   };
   return (
     <div>
