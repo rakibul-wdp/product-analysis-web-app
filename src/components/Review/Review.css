@@ -1,0 +1,12 @@
+.review-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid gray;
+  border-radius: 8px;
+  margin: 3% 0;
+  padding: 1% 2%;
+}
+.review-img img {
+  border-radius: 50%;
+}
