@@ -6,8 +6,8 @@ const ForAreaChart = () => {
   const [chart, setChart] = useChart();
   return (
     <AreaChart
-      width={500}
-      height={400}
+      width={650}
+      height={380}
       data={chart}
       margin={{
         top: 10,

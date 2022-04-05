@@ -24,7 +24,7 @@ const ForPieChart = () => {
     );
   };
   return (
-    <PieChart width={400} height={400}>
+    <PieChart width={650} height={400}>
       <Pie
         data={data}
         cx='50%'

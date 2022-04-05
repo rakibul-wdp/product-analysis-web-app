@@ -6,8 +6,8 @@ const ForBarChart = () => {
   const [chart, setChart] = useChart();
   return (
     <BarChart
-      width={500}
-      height={300}
+      width={650}
+      height={400}
       data={chart}
       margin={{
         top: 20,
