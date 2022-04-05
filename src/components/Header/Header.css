@@ -20,3 +20,32 @@
   font-size: 1.2rem;
   font-weight: bold;
 }
+
+@media only screen and (max-width: 600px) {
+  .header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: #a6f9ef5e;
+  }
+  .header-nav div {
+    margin-left: 15px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+}
+@media only screen and (max-width: 768px) and (min-width: 600px) {
+  .header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: #a6f9ef5e;
+  }
+  .header-nav div {
+    margin-left: 25px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+}
