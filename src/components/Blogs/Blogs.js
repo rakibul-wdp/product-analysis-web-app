@@ -24,7 +24,9 @@ const Blogs = () => {
       </div>
       <div>
         <h2>About Inline, Block, Inline-block element</h2>
-        <p></p>
+        <p>Block-level elements consume full width of available. It starts new line and add some space before and after element. Block elements example are h1 to h6, p, div, ul etc.</p>
+        <p>Inline elements contain exact their content. It doesn't start new line. It takes as much width as necessary. In inline element can't set width or height.</p>
+        <p>Inline-block elements just like inline element, where it doesn't start new line. But it take width and height value. It is the main difference between inline and inline-block elements.</p>
       </div>
     </div>
   );
