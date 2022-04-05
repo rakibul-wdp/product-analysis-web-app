@@ -1,6 +1,6 @@
 # Typing Zone
 
-Live Website of Typing Zone [website name](https://github.com/facebook/create-react-app).
+Live Website of Typing Zone [website link](https://typing-zone-for-assignment-9-by-md-rakibul-islam.netlify.app/).
 
 * In Typing Zone website review some keyboard by customer.
 * In this website I create header section with nav, and it's have active link.
