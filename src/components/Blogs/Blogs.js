@@ -19,7 +19,12 @@ const Blogs = () => {
         </p>
       </div>
       <div>
-        <h2>What is </h2>
+        <h2>What is Semantic Elements or Tags...???</h2>
+        <p>In one sentence, semantic elements means a element with a meaning. What is meaning? Meaning means when we use semantic element it's tell us which type of code or which type of work doing in this element. A semantic element easily and clearly describe its works or meaning to a developer and also browser. Let's see example. If we use use div or span tag, it's tells nothing about in this content. But when we use semantic element like header, nav main, footer etc. its clearly describe about its content. Some example with case wise. Section element use for chapters, introduction, contact information. Article element used for blog posts, user comments, product cards. Footer is more than clear element, its use for copyright info, contact info, authorship info. Nav tag use in header tag for set of navigation links. Other semantic element is article, aside, details, header, main, summary etc. So semantic element are clearly describe their meaning in a developer and also machine. </p>
+      </div>
+      <div>
+        <h2>About Inline, Block, Inline-block element</h2>
+        <p></p>
       </div>
     </div>
   );
