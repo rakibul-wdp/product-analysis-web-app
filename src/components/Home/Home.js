@@ -33,11 +33,13 @@ const Home = () => {
         </div>
       </div>
       <div className='home-review'>
-        <h2>Customer Reviews(3)</h2>
+        <h2 className='home-customer-header'>Customer Reviews(3)</h2>
         {reviews.slice(0, 3).map((singleReview) => (
           <Review key={singleReview.id} singleReview={singleReview} />
         ))}
-        <button onClick={showAllReview}>See All Review</button>
+        <button className='see-all-review-btn' onClick={showAllReview}>
+          See All Review
+        </button>
       </div>
     </div>
   );

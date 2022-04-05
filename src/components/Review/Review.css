@@ -10,3 +10,21 @@
 .review-img img {
   border-radius: 50%;
 }
+.review-details-text {
+  margin-left: 2.5%;
+}
+.review-name {
+  color: #544f4f;
+  margin: 0;
+}
+.review-detail {
+  margin: 5px 0 0 0;
+  text-align: justify;
+}
+.review-rating {
+  margin: 5px 0 0 0;
+}
+.rating-icon {
+  margin-right: 5px;
+  color: orange;
+}

@@ -5,16 +5,55 @@
   margin: 7% 0;
 }
 .home-img img {
-  width: 80%;
-  border-radius: 10px;
+  width: 85%;
+  border-radius: 50%;
 }
 .home-details {
   width: 138%;
 }
+.home-header-one {
+  font-size: 2.5rem;
+  color: #234e4c;
+  font-style: italic;
+  margin: 0;
+}
+.home-header-two {
+  font-size: 2.5rem;
+  color: #a93600;
+  font-style: italic;
+  margin: 0;
+}
+.home-para {
+  font-size: 1.1rem;
+  line-height: 1.6rem;
+  color: #4a3939;
+  text-align: justify;
+}
 .home-btn {
-  background-color: rgb(13, 178, 178);
-  padding: 5px 25px;
+  background-color: rgb(255 173 129);
+  padding: 14px 70px;
   border: 0;
   border-radius: 3px;
-  color: black;
+  color: #424141;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+.home-customer-header {
+  text-align: center;
+  font-size: 2.3rem;
+  color: #4a4848;
+  font-style: italic;
+}
+.see-all-review-btn {
+  margin-bottom: 5%;
+  width: 20%;
+  margin-left: 37.5%;
+  border: none;
+  background-color: #ffad81;
+  color: #363535;
+  font-size: 1.5rem;
+  padding: 0.6% 4%;
+  border-radius: 8px;
+  cursor: pointer;
 }
